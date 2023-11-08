@@ -1,5 +1,8 @@
 ![OrgChart](http://dabeng.github.io/OrgChart/img/heading.svg)
 
+## Changes with upstream
+- Bumped jQuery to v3.7.1 to address a known CVE
+
 # [jQuery Version](https://github.com/dabeng/OrgChart)
 # [ES6 Version](http://github.com/dabeng/OrgChart.js)
 # [Web Components Version](http://github.com/dabeng/OrgChart-Webcomponents)
